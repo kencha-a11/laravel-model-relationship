@@ -16,4 +16,4 @@ use Illuminate\Support\Facades\Route;
 
 // Route::get('/',[UserController::class, 'indexb']); // User List with Courses
 
-Route::get('/', [CourseController::class, 'index']); // Courses and their Users
+// Route::get('/', [CourseController::class, 'index']); // Courses and their Users
